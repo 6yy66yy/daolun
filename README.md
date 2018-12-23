@@ -4,3 +4,4 @@
 
 其中WiFisend是从机发送部分，count是主机计数和显示部分
 
+xiaochengxu中就是我们的微信小程序界面
