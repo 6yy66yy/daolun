@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "63 组 人流量检测器",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "color": "#B5B5B5",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "未完成区域",
+        "iconPath": "单手剑icon hover.png",
+        "selectedIconPath": "单手剑icon normal.png"
+      },
+      {
+        "pagePath": "pages/start/start",
+        "text": "首页",
+        "iconPath": "单手剑icon hover.png",
+        "selectedIconPath": "单手剑icon normal.png"
+      },
+      {
+        "pagePath": "pages/wifi_station/tianqi/tianqi",
+        "text": "人流量趋势图",
+        "iconPath": "单手剑icon hover.png",
+        "selectedIconPath": "单手剑icon normal.png"
+      }
+    ]
+  },
+  
+  "debug": true
+}

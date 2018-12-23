@@ -1,0 +1,28 @@
+/* pages/start/start.wxss */
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 1px;
+  text-align:center;
+  
+}
+.head{
+  color: darkgrey;
+  font-family: fantasy;
+  font-size: 50rpx;
+}

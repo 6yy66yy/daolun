@@ -1,0 +1,11 @@
+<view class="voteText countDownTimeText">还有{{countDownNum}}秒自动刷新</view>
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas>
+
+<!-- <input type="digit" id="input" placeholder="请输入时间跨度 默认1" 
+placeholder-style="font-size:15px; color:#bfbfbf;" 
+ style="font-weight:bolder; font-size:15px; color:#000000; padding-left: 30rpx"
+  bindinput="time"/>-->
+  <view id="text">等不及了？  👇</view>
+<button id="btn3" style="opacity: {{opacity}}" 
+disabled="{{disabled}}" bindtap="refresh">更新页面</button>  

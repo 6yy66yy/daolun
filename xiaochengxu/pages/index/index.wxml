@@ -1,0 +1,11 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+
+<text>你来到了一个未知领域,\n
+这并不是我们时间赶没有做完的页面，\n
+现在你应该按照提示去看之后的页面\n
+在不久的将来这里将被用于显示当前人流量的文字信息
+</text>
+<text class='left'>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n_______________________________点这里↓</text>
+
+</view>
